@@ -14,3 +14,13 @@ C:\Users\Jotaro\Documents\Visual Studio 2015\Projects\telegrambot\telegrambot\ob
 E:\telegrambot\telegrambot\bin\Debug\telegrambot.exe.config
 E:\telegrambot\telegrambot\obj\Debug\telegrambot.exe
 E:\telegrambot\telegrambot\obj\Debug\telegrambot.pdb
+E:\telegrambot\telegrambot\bin\Debug\telegrambot.exe
+E:\telegrambot\telegrambot\bin\Debug\telegrambot.pdb
+E:\telegrambot\telegrambot\bin\Debug\Newtonsoft.Json.dll
+E:\telegrambot\telegrambot\bin\Debug\Telegram.Bot.dll
+E:\telegrambot\telegrambot\bin\Debug\Newtonsoft.Json.xml
+E:\telegrambot\telegrambot\bin\Debug\Telegram.Bot.xml
+E:\telegrambot\telegrambot\obj\Debug\telegrambot.csprojResolveAssemblyReference.cache
+E:\telegrambot\telegrambot\obj\Debug\telegrambot.Form1.resources
+E:\telegrambot\telegrambot\obj\Debug\telegrambot.Properties.Resources.resources
+E:\telegrambot\telegrambot\obj\Debug\telegrambot.csproj.GenerateResource.Cache
