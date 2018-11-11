@@ -11,3 +11,6 @@ C:\Users\Jotaro\Documents\Visual Studio 2015\Projects\telegrambot\telegrambot\ob
 C:\Users\Jotaro\Documents\Visual Studio 2015\Projects\telegrambot\telegrambot\obj\Debug\telegrambot.csproj.GenerateResource.Cache
 C:\Users\Jotaro\Documents\Visual Studio 2015\Projects\telegrambot\telegrambot\obj\Debug\telegrambot.exe
 C:\Users\Jotaro\Documents\Visual Studio 2015\Projects\telegrambot\telegrambot\obj\Debug\telegrambot.pdb
+E:\telegrambot\telegrambot\bin\Debug\telegrambot.exe.config
+E:\telegrambot\telegrambot\obj\Debug\telegrambot.exe
+E:\telegrambot\telegrambot\obj\Debug\telegrambot.pdb
